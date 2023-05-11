@@ -1,0 +1,8 @@
+[
+    { "name": "Developers", "des": "Lệnh hữu ích với developers", "emoji": "⌨️", "value": "developers" },
+    { "name": "Info", "des": "Lệnh nêu thông tin", "emoji": "🧾", "value": "info" },
+    { "name": "Moderation", "des": "Lệnh giúp quản lý người dùng", "emoji": "🔨", "value":"mod" },
+    { "name": "Music", "des": "Lệnh phát nhạc", "emoji": "🎵", "value": "music" },
+    { "name": "Setup", "des": "Lệnh điều chỉnh", "emoji": "⚙️", "value": "setup" },
+    { "name": "Utility", "des": "Những Lệnh hữu dụng", "emoji": "🧰", "value": "utility" }
+]

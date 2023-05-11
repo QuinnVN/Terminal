@@ -1,0 +1,22 @@
+{
+    "bot": {
+        "token": "YourBotToken",
+        "mongoURL": "YourMongodbURL"
+    },
+    "nodes": [
+        {
+            "host": "yourlavalinkhost",
+            "port": 443,
+            "password": "youshallnotpass",
+            "secure": false
+        }
+    ],
+    "google": {
+        "engineID": "YourGoogleEngineID",
+        "apiKey": "YourAPIKey"
+    },
+
+    "openWeather": {
+        "apiKey": "yourapikey"
+    }
+}
