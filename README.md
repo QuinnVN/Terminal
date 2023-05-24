@@ -63,9 +63,3 @@ openWeather:
 -   `apiKey`: OpenWeather API key
 
 **Note:** _<>: required_
-
----
-
-## Support
-
-You can DM me **(Quinn#2872)** for support until this line says **_End of support_**
