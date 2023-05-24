@@ -21,7 +21,7 @@ npm run build
 
 #### 2. Configure the bot
 
-Open the `config.json` file and fill in all the necessary fields (see Configuration)
+Open the `config.json` file and fill in all the necessary fields (see **_Configuration_**)
 ![config.png](./assets/pic/config.png)
 
 #### 3.Start the bot
